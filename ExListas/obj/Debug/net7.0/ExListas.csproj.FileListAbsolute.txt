@@ -1,0 +1,15 @@
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/bin/Debug/net7.0/ExListas
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/bin/Debug/net7.0/ExListas.deps.json
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/bin/Debug/net7.0/ExListas.runtimeconfig.json
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/bin/Debug/net7.0/ExListas.dll
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/bin/Debug/net7.0/ExListas.pdb
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/obj/Debug/net7.0/ExListas.csproj.AssemblyReference.cache
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/obj/Debug/net7.0/ExListas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/obj/Debug/net7.0/ExListas.AssemblyInfoInputs.cache
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/obj/Debug/net7.0/ExListas.AssemblyInfo.cs
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/obj/Debug/net7.0/ExListas.csproj.CoreCompileInputs.cache
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/obj/Debug/net7.0/ExListas.dll
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/obj/Debug/net7.0/refint/ExListas.dll
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/obj/Debug/net7.0/ExListas.pdb
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/obj/Debug/net7.0/ExListas.genruntimeconfig.cache
+/Users/fp/Documents/Projetos C#/ExListas/ExListas/obj/Debug/net7.0/ref/ExListas.dll

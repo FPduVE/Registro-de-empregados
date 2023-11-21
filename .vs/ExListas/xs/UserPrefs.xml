@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{A616E510-7118-4DA4-90CB-0B456CF17963}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExListas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExListas/Program.cs">
+    <Files>
+      <File FileName="ExListas/Program.cs" Line="36" Column="30" />
+      <File FileName="ExListas/Employees.cs" Line="29" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExListas" expanded="True">
+            <Node name="ExListas" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
